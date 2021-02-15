@@ -7,7 +7,8 @@ Implementation of neural style transfer using  VGG19 model
 
 ![download7](https://user-images.githubusercontent.com/34827128/59633840-0a30a880-916b-11e9-8f9a-08478ad09cd9.png)
 
-Features
+# Features
+
 Various style losses such as gram-based, patch-based, semantic-based.
 Capability to process on multiple scales.
 Support for generating huge image sizes through tiling.
